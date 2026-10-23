@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Build & Distribution
+dist/
+build/
+*.spec
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# Test tooling
+.pytest_cache/
+
+# Output batch files
+*.bat
